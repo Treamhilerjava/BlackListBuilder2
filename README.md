@@ -212,6 +212,6 @@ System designed and developed by **Treamhiler**
 ---
 
 ## 📬 Support
-
+Modrinth: **https://modrinth.com/plugin/sentinel-for-modguard**
 Join the Discord for downloads, support, and updates:
 **discord.gg/tFXhkPVpxG**
